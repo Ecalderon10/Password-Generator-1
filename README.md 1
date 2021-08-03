@@ -2,25 +2,31 @@
 
 
 
-#
 
 
 
 
 
 
+1 I created a password generator In order to help the user create a randomize password to use for any log in of their choice
 
+2 When creating the password generator I took into consideration step by step the process that should be taken when selecting the attributes of the password
 
+3 First i created a Declaration of Variables in JS, when defining these variables i thought of the variables that would relate to this type of site
 
+4 After creating the variables in JS i created Strings of Lowercase,Uppercase,Characters,Numbers. These are used for the user can choose from these characters in order to create a password
 
+5 Once strings were given values, I created prompts for each occcasion that the user would come across if they did follow the criteria or if they didnt
 
+6 When creating these prompts I created "if" statement in the JS code to corralte correctly with the series of events in which the user could face 
 
+7 After creating these "if" in JS, I created a for loop for the different randomized passwords that could be produced with using Math.Floor and Math.Random
 
+8 Due to the way that i had this part of my code set-up, I made sure that the passwords provide had all string types included in the password 
 
+9 After being able to prompt a password in the password box, I had to slice the password with a function in order to meet the users preferred length of the password
 
-
-
-
+10 After creating this function, i was able to prompt the user with a password with the attributes and length that the user had selected through out the process
 
 
 
